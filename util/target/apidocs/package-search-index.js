@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.parmenidev.mise.bom.util"},{"l":"io.github.parmenidev.mise.bom.util.json"}];updateSearchResults();
