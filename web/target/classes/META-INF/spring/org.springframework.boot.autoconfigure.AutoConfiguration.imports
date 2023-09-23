@@ -1,4 +1,4 @@
-FeignAutoConfiguration
-WebAutoConfiguration
-InterceptorAutoConfiguration
-AutoForwardAutoConfiguration
+io.github.parmenidev.mise.bom.web.configuration.FeignAutoConfiguration
+io.github.parmenidev.mise.bom.web.configuration.WebAutoConfiguration
+io.github.parmenidev.mise.bom.web.configuration.InterceptorAutoConfiguration
+io.github.parmenidev.mise.bom.web.configuration.AutoForwardAutoConfiguration
