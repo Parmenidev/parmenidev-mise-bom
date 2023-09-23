@@ -1,0 +1,4 @@
+FeignAutoConfiguration
+WebAutoConfiguration
+InterceptorAutoConfiguration
+AutoForwardAutoConfiguration

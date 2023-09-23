@@ -1,0 +1,11 @@
+com\github\parmenidev\mise\bom\web\interceptor\FeignInterceptor.class
+com\github\parmenidev\mise\bom\web\annotation\HeaderAutoForward.class
+com\github\parmenidev\mise\bom\web\configuration\WebAutoConfiguration.class
+com\github\parmenidev\mise\bom\web\constant\RequestHeader.class
+com\github\parmenidev\mise\bom\web\Application.class
+com\github\parmenidev\mise\bom\web\interceptor\RequestInterceptor.class
+com\github\parmenidev\mise\bom\web\configuration\FeignAutoConfiguration.class
+com\github\parmenidev\mise\bom\web\context\RequestContext.class
+com\github\parmenidev\mise\bom\web\configuration\AutoForwardAutoConfiguration.class
+com\github\parmenidev\mise\bom\web\annotation\aspect\HeaderAutoForwardAspect.class
+com\github\parmenidev\mise\bom\web\configuration\InterceptorAutoConfiguration.class

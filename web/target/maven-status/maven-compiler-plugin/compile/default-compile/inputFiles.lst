@@ -1,0 +1,11 @@
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\annotation\HeaderAutoForward.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\constant\RequestHeader.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\Application.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\configuration\AutoForwardAutoConfiguration.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\annotation\aspect\HeaderAutoForwardAspect.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\configuration\WebAutoConfiguration.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\configuration\InterceptorAutoConfiguration.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\context\RequestContext.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\interceptor\FeignInterceptor.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\interceptor\RequestInterceptor.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\web\src\main\java\com\github\parmenidev\mise\bom\web\configuration\FeignAutoConfiguration.java

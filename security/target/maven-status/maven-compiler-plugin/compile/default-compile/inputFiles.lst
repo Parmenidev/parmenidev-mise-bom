@@ -1,0 +1,9 @@
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\controller\ExceptionHandlerController.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\annotation\aspect\CheckPermissionAspect.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\Application.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\constant\SecurityConstant.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\scanner\SecurityAnnotationScanner.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\annotation\PublicAccess.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\annotation\CheckPermission.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\exception\SecurityAnnotationScanException.java
+C:\Users\salvatore.vitiello\shoplab\bom\parmenide.mise.bom\security\src\main\java\com\github\parmenidev\mise\bom\security\exception\UnauthorizedException.java

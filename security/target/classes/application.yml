@@ -1,0 +1,9 @@
+auth:
+  manager:
+    baseUrl: https://ms-auth-manager-production.up.railway.app
+    checkPermissionPath: /v1/check/permission
+
+
+project:
+  package:
+    prefix: com.shoplab

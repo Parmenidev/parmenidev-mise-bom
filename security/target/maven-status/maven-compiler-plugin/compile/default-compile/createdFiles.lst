@@ -1,0 +1,9 @@
+com\github\parmenidev\mise\bom\security\annotation\PublicAccess.class
+com\github\parmenidev\mise\bom\security\exception\UnauthorizedException.class
+com\github\parmenidev\mise\bom\security\constant\SecurityConstant.class
+com\github\parmenidev\mise\bom\security\exception\SecurityAnnotationScanException.class
+com\github\parmenidev\mise\bom\security\annotation\CheckPermission.class
+com\github\parmenidev\mise\bom\security\Application.class
+com\github\parmenidev\mise\bom\security\controller\ExceptionHandlerController.class
+com\github\parmenidev\mise\bom\security\annotation\aspect\CheckPermissionAspect.class
+com\github\parmenidev\mise\bom\security\scanner\SecurityAnnotationScanner.class

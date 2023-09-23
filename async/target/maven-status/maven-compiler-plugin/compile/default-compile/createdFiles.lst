@@ -1,0 +1,5 @@
+com\github\parmenidev\mise\bom\async\context\RequestContextThreadPoolTaskExecutor.class
+com\github\parmenidev\mise\bom\async\util\CompletableFutureUtil.class
+com\github\parmenidev\mise\bom\async\configuration\ExecutorAutoConfiguration.class
+com\github\parmenidev\mise\bom\async\Application.class
+com\github\parmenidev\mise\bom\async\context\AsyncRequestContextPropagator.class
