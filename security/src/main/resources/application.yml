@@ -1,4 +1,4 @@
 auth:
   manager:
-    baseUrl: localhost:8081
-    checkPermissionPath: /test
+    baseUrl: ${AUTH_MANAGER_BASE_URL}
+    checkPermissionPath: ${AUTH_MANAGER_PATH}
