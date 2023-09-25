@@ -21,7 +21,7 @@ public class FeignInterceptor implements RequestInterceptor {
         if (headersToForward != null && headersToForward.length != 0) {
             for (String header : headersToForward) {
                 if (!ObjectUtils.isEmpty(header)) {
-                    String value = requestContext.getHttpHeaders().get(header);
+                    String value = requestContext.getHttpHeaders().get(header.toLowerCase());
                     if (!ObjectUtils.isEmpty(value)) {
                         requestTemplate.header(header, value);
                     }

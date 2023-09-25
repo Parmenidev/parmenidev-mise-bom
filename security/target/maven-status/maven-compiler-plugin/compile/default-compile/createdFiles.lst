@@ -1,9 +1,7 @@
-io\github\parmenidev\mise\bom\security\constant\SecurityConstant.class
 io\github\parmenidev\mise\bom\security\annotation\PublicAccess.class
 io\github\parmenidev\mise\bom\security\annotation\aspect\CheckPermissionAspect.class
-io\github\parmenidev\mise\bom\security\controller\ExceptionHandlerController.class
+io\github\parmenidev\mise\bom\security\GlobalConfiguration.class
 io\github\parmenidev\mise\bom\security\scanner\SecurityAnnotationScanner.class
-io\github\parmenidev\mise\bom\security\Application.class
+io\github\parmenidev\mise\bom\security\feign\AuthManagerFeignClient.class
 io\github\parmenidev\mise\bom\security\exception\SecurityAnnotationScanException.class
-io\github\parmenidev\mise\bom\security\exception\UnauthorizedException.class
 io\github\parmenidev\mise\bom\security\annotation\CheckPermission.class

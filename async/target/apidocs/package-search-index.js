@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.github.parmenidev.mise.bom.async"},{"l":"io.github.parmenidev.mise.bom.async.configuration"},{"l":"io.github.parmenidev.mise.bom.async.context"},{"l":"io.github.parmenidev.mise.bom.async.util"}];updateSearchResults();

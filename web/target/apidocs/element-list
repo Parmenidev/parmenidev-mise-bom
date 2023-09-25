@@ -1,7 +1,0 @@
-io.github.parmenidev.mise.bom.web
-io.github.parmenidev.mise.bom.web.annotation
-io.github.parmenidev.mise.bom.web.annotation.aspect
-io.github.parmenidev.mise.bom.web.configuration
-io.github.parmenidev.mise.bom.web.constant
-io.github.parmenidev.mise.bom.web.context
-io.github.parmenidev.mise.bom.web.interceptor
