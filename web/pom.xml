@@ -5,12 +5,11 @@
     <parent>
         <artifactId>parmenidev-mise-bom</artifactId>
         <groupId>io.github.parmenidev</groupId>
-        <version>1.0.3</version>
+        <version>1.0.4</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>parmenidev-web</artifactId>
-    <version>1.0.3</version>
     <name>parmenidev-web</name>
     <description>Library to simplify web operations</description>
     <url>https://github.com/Parmenidev/parmenidev-mise-bom/tree/master/web</url>

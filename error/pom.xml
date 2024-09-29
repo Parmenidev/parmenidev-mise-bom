@@ -5,12 +5,11 @@
     <parent>
         <artifactId>parmenidev-mise-bom</artifactId>
         <groupId>io.github.parmenidev</groupId>
-        <version>1.0.3</version>
+        <version>1.0.4</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>parmenidev-error</artifactId>
-    <version>1.0.0</version>
     <description>Library that provides error handling for common rest API scenarios</description>
     <url>https://github.com/Parmenidev/parmenidev-mise-bom/tree/master/error</url>
 

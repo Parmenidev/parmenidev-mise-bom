@@ -18,7 +18,7 @@
     <groupId>io.github.parmenidev</groupId>
     <artifactId>parmenidev-mise-bom</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <name>parmenidev-mise-bom</name>
     <description>Parent pom for parmenidev artifacts</description>
     <url>https://github.com/Parmenidev/parmenidev-mise-bom</url>
