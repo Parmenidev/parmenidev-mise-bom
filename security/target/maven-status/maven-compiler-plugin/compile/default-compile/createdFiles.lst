@@ -1,7 +1,3 @@
-io\github\parmenidev\mise\bom\security\annotation\PublicAccess.class
-io\github\parmenidev\mise\bom\security\annotation\aspect\CheckPermissionAspect.class
+io\github\parmenidev\mise\bom\security\configuration\SecurityAutoConfiguration.class
+io\github\parmenidev\mise\bom\security\configuration\SecurityConfiguration.class
 io\github\parmenidev\mise\bom\security\GlobalConfiguration.class
-io\github\parmenidev\mise\bom\security\scanner\SecurityAnnotationScanner.class
-io\github\parmenidev\mise\bom\security\feign\AuthManagerFeignClient.class
-io\github\parmenidev\mise\bom\security\exception\SecurityAnnotationScanException.class
-io\github\parmenidev\mise\bom\security\annotation\CheckPermission.class

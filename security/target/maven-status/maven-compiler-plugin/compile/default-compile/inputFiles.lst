@@ -1,7 +1,3 @@
-C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\annotation\aspect\CheckPermissionAspect.java
-C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\annotation\CheckPermission.java
-C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\annotation\PublicAccess.java
-C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\exception\SecurityAnnotationScanException.java
-C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\feign\AuthManagerFeignClient.java
+C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\configuration\SecurityAutoConfiguration.java
+C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\configuration\SecurityConfiguration.java
 C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\GlobalConfiguration.java
-C:\Users\salvi\Projects\lib\parmenidev-mise-bom\security\src\main\java\io\github\parmenidev\mise\bom\security\scanner\SecurityAnnotationScanner.java
