@@ -1,4 +1,9 @@
+C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\annotation\EnableVirtualThreads.java
+C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\annotation\VirtualThreadsImportSelector.java
+C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\configuration\ExecutorAutoConfiguration.java
+C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\configuration\ExecutorConfiguration.java
+C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\configuration\VirtualThreadExecutorConfiguration.java
 C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\context\AsyncRequestContextPropagator.java
 C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\context\RequestContextThreadPoolTaskExecutor.java
-C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\configuration\ExecutorAutoConfiguration.java
+C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\context\RequestContextVirtualThreadTaskExecutor.java
 C:\Users\salvi\Projects\lib\parmenidev-mise-bom\async\src\main\java\io\github\parmenidev\mise\bom\async\util\CompletableFutureUtil.java

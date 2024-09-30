@@ -1,21 +1,14 @@
 package io.github.parmenidev.mise.bom.async.configuration;
 
-import io.github.parmenidev.mise.bom.async.context.RequestContextThreadPoolTaskExecutor;
 import org.springframework.boot.autoconfigure.AutoConfiguration;
-import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.scheduling.annotation.AsyncConfigurer;
+import org.springframework.context.annotation.Import;
+import org.springframework.scheduling.annotation.EnableAsync;
 
-import java.util.concurrent.Executor;
-
-@ComponentScan
+@EnableAsync
 @Configuration
 @AutoConfiguration
-public class ExecutorAutoConfiguration implements AsyncConfigurer {
-    @Override
-    @Bean
-    public Executor getAsyncExecutor() {
-        return new RequestContextThreadPoolTaskExecutor();
-    }
+@Import({ExecutorConfiguration.class})
+public class ExecutorAutoConfiguration {
+
 }
